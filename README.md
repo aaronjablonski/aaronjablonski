@@ -9,7 +9,7 @@ I'm a Berlin-based Full-Stack Software Engineer with a specialization in AI syst
 
 I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meaning I can own both the AI backend and the 3D frontend. I run workshops on Unreal Engine and AI workflows.
 
-> **Currently:** Senior Product Engineer at **[Ojin](https://ojin.ai)**, a real-time GenAI platform offering blazing-fast APIs for speech-to-video and conversational AI agents.
+> **Currently:** Senior Product Engineer at **[Ojin](https://ojin.ai)**, building real-time AI infrastructure for speech-to-video and conversational agents.
 
 ---
 
@@ -50,6 +50,8 @@ I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meanin
 - **Backend & Realtime** — Developed NestJS services for multi-agent session management, secure APIs, persistent memory, and high-concurrency WebSocket communication.
 - **Delivery & Extensibility** — Managed CI/CD with Docker, GCP, and DigitalOcean while building SDK and plugin-based extension points for agent behaviors, animation systems, and third-party integrations.
 
+`TypeScript` · `Node.js` · `NestJS` · `WebSockets` · `OpenAI` · `Gemini` · `Vertex AI` · `Docker` · `GCP`
+
 </details>
 
 <details>
@@ -57,6 +59,8 @@ I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meanin
 
 - Built a large-scale procedural environment for a driving simulator in Unity.
 - Developed tooling for procedural content generation and responsive visual effects using VFX Graph and HDRP.
+
+`Unity` · `C#` · `VFX Graph` · `HDRP`
 
 </details>
 
@@ -69,6 +73,8 @@ I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meanin
 - **Education** — Tutorials, workshops, and technical learning content for advanced Unreal Engine workflows.
 - **Selected Reach** — Presented at venues such as MEET Milan and NXT Museum Amsterdam; distributed across Snapchat and Meta platforms at scale.
 
+`Unreal Engine` · `Houdini` · `MetaHuman`
+
 </details>
 
 <details>
@@ -77,6 +83,8 @@ I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meanin
 - Built C# application frameworks for interactive product experiences and digital twins.
 - Integrated ARKit and ARCore for fashion and retail-facing experiences and implemented dynamic 3D asset loading pipelines connected to external data sources.
 - Worked with browser-based realtime engines including PlayCanvas and A-Frame.
+
+`Unity` · `C#` · `ARKit` · `ARCore` · `PlayCanvas` · `A-Frame`
 
 </details>
 
