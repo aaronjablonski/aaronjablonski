@@ -78,7 +78,7 @@ I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meanin
 </details>
 
 <details>
-<summary><b>XR & Unity Developer · Orendt Studios & AVP Group</b> &nbsp;·&nbsp; <i>2015 — 2019</i></summary>
+<summary><b>XR & Unity Developer </b> &nbsp;·&nbsp; <i>2015 — 2019</i></summary>
 
 - Built C# application frameworks for interactive product experiences and digital twins.
 - Integrated ARKit and ARCore for fashion and retail-facing experiences and implemented dynamic 3D asset loading pipelines connected to external data sources.
