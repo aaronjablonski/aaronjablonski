@@ -9,7 +9,7 @@ I'm a Berlin-based Full-Stack Software Engineer with a specialization in AI syst
 
 I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meaning I can own both the AI backend and the 3D frontend. I run workshops on Unreal Engine and AI workflows.
 
-> **Currently:** Senior Product Engineer at **[Ojin](https://ojin.ai)**, building real-time AI infrastructure for speech-to-video and conversational agents.
+> Senior Product Engineer at **[Ojin](https://ojin.ai)**, building real-time AI infrastructure for speech-to-video and conversational agents.
 
 ---
 
