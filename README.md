@@ -1,88 +1,83 @@
 # Aaron Jablonski
 
-**Full-Stack Engineer (AI) | Creative Technologist**
+**Full-Stack Engineer — Real-Time & Multimodal AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aaronjablonski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronjablonski/)
-[![Location](https://img.shields.io/badge/Location-Berlin,%20Germany-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+![Location](https://img.shields.io/badge/Berlin,%20Germany-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)
 
-I'm a Berlin-based Full-Stack Software Engineer with a specialization in AI systems, and Creative Technologist focused on **GenAI systems, agentic software development, and real-time platforms**. I design and ship **multimodal AI products** like conversational and avatar-driven agents, built on backend orchestration, realtime transport, and developer-facing tooling.
+I work on real-time, multimodal AI systems — mostly conversational and avatar-based agents — across backend, realtime transport, and frontend. Before AI, my work was in realtime 3D and technical art (Unreal Engine, Houdini, WebGL). I also teach Unreal Engine as an Epic Games Instructor Partner.
 
-I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meaning I can own both the AI backend and the 3D frontend. I run workshops on Unreal Engine and AI workflows.
-
-> Senior Product Engineer at **[Ojin](https://ojin.ai)**, building real-time AI infrastructure for speech-to-video and conversational agents.
+> Senior Product Engineer at **[Ojin](https://ojin.ai)** — real-time AI infrastructure for interactive agents: talking-head video, avatars, and conversational AI.
 
 ---
 
-### Technical Knowledge
+### Stack
 
 - **Languages:** Python, TypeScript, C#
-- **AI & Agents:** Google ADK, LangChain, Pipecat, OpenAI, Gemini, Vertex AI
-- **Backend & Realtime:** FastAPI, NestJS, Node.js, WebSockets, WebRTC, Redis
-- **Data & Retrieval:** PostgreSQL, SQLite, Neo4j, RAG, GraphRAG
-- **Frontend:** Next.js, React, Three.js, WebGL
-- **Cloud & DevOps:** Docker, Google Cloud, DigitalOcean, CI/CD
+- **AI & Agents:** Pipecat, Google ADK, LangChain, OpenAI, Gemini, Vertex AI
+- **Backend & Realtime:** FastAPI, NestJS, Node.js, WebSockets, WebRTC, LiveKit, Redis
+- **Data:** PostgreSQL, Neo4j, RAG / GraphRAG
+- **Frontend & 3D:** Next.js, React, Three.js, WebGL
 - **Realtime 3D & DCC:** Unreal Engine, MetaHuman, Unity, Houdini
+- **Infra:** Docker, Google Cloud, CI/CD
 
 ---
 
-### Professional Experience
+### Experience
 
 <details>
-<summary><b>Senior Product Engineer · Ojin (formerly Journee)</b> &nbsp;·&nbsp; <i>April 2026 — Present</i></summary>
+<summary><b>Senior Product Engineer · Ojin</b> &nbsp;·&nbsp; <i>2026 — Present</i></summary>
 
-> Building and scaling **Ojin**, a real-time GenAI platform with APIs for speech-to-video and conversational AI agents. My work sits between AI infrastructure and developer experience: turning distributed ML systems into APIs and tooling people can actually ship with.
+[Ojin](https://ojin.ai) is a real-time AI inference platform for interactive media — hosted models for talking-head video, real-time avatars, and world generation — delivered as low-latency APIs and embeddable widgets, with integrations for Pipecat, LiveKit, and Unreal Engine. It's used by teams at companies including BMW, Adidas, and H&M.
 
-- **Control Planes & Developer UI** — Building low-latency control planes and the developer-facing interfaces around them.
-- **Multi-Modal Pipelines** — Wiring up realtime transport (WebRTC, LiveKit), custom binary WebSockets, and agentic workflows.
-- **Avatar + Speech Sync** — Keeping generative video avatars and synthesized speech aligned at the platform's sub-100ms latency target.
-- **Distributed State** — Maintaining stateful connections across microservices and instrumenting latency metrics across the stack.
+On a small team, I own features end-to-end across the stack:
 
-`TypeScript` · `React` · `Node.js` · `NestJS` · `Python` · `Pipecat` · `WebRTC` · `Redis`
+- Frontends in React / TypeScript and the Node.js services behind them.
+- The Python AI layer — agentic systems, conversational flows, and the speech / avatar / LLM loop over WebRTC, LiveKit, and Pipecat.
+- Backend systems and architecture, against the platform's low-latency target.
+
+`TypeScript` · `React` · `Node.js` · `Python` · `Pipecat` · `WebRTC` · `LiveKit` · `Redis`
 
 </details>
 
 <details>
 <summary><b>AI Systems Engineer & Full-Stack Developer · Alias</b> &nbsp;·&nbsp; <i>2023 — 2025</i></summary>
 
-> Owned core platform engineering for a no-code, live-streaming 3D AI agent product.
+Core platform engineering for a no-code product for live, 3D AI agents.
 
-- **AI Systems** — Integrated OpenAI, Gemini, and Vertex AI; built evaluation workflows and improved runtime behavior across prompts, context management, and model selection.
-- **Backend & Realtime** — Developed NestJS services for multi-agent session management, secure APIs, persistent memory, and high-concurrency WebSocket communication.
-- **Delivery & Extensibility** — Managed CI/CD with Docker, GCP, and DigitalOcean while building SDK and plugin-based extension points for agent behaviors, animation systems, and third-party integrations.
+- Integrated OpenAI, Gemini, and Vertex AI; built evaluation workflows and tuned runtime behavior across prompts, context management, and model selection.
+- Built NestJS services for multi-agent session management, persistent memory, and high-concurrency WebSocket communication.
+- Ran CI/CD (Docker, GCP, DigitalOcean) and built the SDK / plugin system for custom agent behaviors and integrations.
 
-`TypeScript` · `Node.js` · `NestJS` · `WebSockets` · `OpenAI` · `Gemini` · `Vertex AI` · `Docker` · `GCP`
+`TypeScript` · `NestJS` · `WebSockets` · `OpenAI` · `Gemini` · `Vertex AI` · `Docker` · `GCP`
 
 </details>
 
 <details>
 <summary><b>Technical Artist (Unity) · Volkswagen Group Future Center</b> &nbsp;·&nbsp; <i>2024</i></summary>
 
-- Built a large-scale procedural environment for a driving simulator in Unity.
-- Developed tooling for procedural content generation and responsive visual effects using VFX Graph and HDRP.
+- Built a procedural environment for a driving simulator in Unity.
+- Built tooling for procedural content generation and runtime VFX with VFX Graph and HDRP.
 
 `Unity` · `C#` · `VFX Graph` · `HDRP`
 
 </details>
 
 <details>
-<summary><b>Independent Practice · ExitSimulation</b> &nbsp;·&nbsp; <i>since 2018</i></summary>
+<summary><b>Independent Creative Technology · ExitSimulation</b> &nbsp;·&nbsp; <i>2018 — Present</i></summary>
 
-> Creative technology practice focused on immersive experiences, realtime 3D applications, technical art systems, and advanced Unreal Engine education.
-
-- **Creative Technology** — Installations, XR experiences, 3D visuals, and interactive work using Unreal Engine and Houdini.
-- **Education** — Tutorials, workshops, and technical learning content for advanced Unreal Engine workflows.
-- **Selected Reach** — Presented at venues such as MEET Milan and NXT Museum Amsterdam; distributed across Snapchat and Meta platforms at scale.
+Realtime 3D and technical-art work: installations, XR, and interactive visuals in Unreal Engine and Houdini, plus Unreal Engine tutorials and workshops. Shown at venues including MEET Milan and NXT Museum Amsterdam.
 
 `Unreal Engine` · `Houdini` · `MetaHuman`
 
 </details>
 
 <details>
-<summary><b>XR & Unity Developer </b> &nbsp;·&nbsp; <i>2015 — 2019</i></summary>
+<summary><b>XR & Unity Developer</b> &nbsp;·&nbsp; <i>2015 — 2019</i></summary>
 
 - Built C# application frameworks for interactive product experiences and digital twins.
-- Integrated ARKit and ARCore for fashion and retail-facing experiences and implemented dynamic 3D asset loading pipelines connected to external data sources.
-- Worked with browser-based realtime engines including PlayCanvas and A-Frame.
+- Integrated ARKit / ARCore for retail and fashion, with dynamic 3D asset pipelines driven by external data.
+- Worked with browser-based realtime engines (PlayCanvas, A-Frame).
 
 `Unity` · `C#` · `ARKit` · `ARCore` · `PlayCanvas` · `A-Frame`
 
@@ -90,35 +85,28 @@ I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meanin
 
 ---
 
-### Featured Projects
+### Projects
 
-#### ARC-9 — Persona-Driven Multi-Agent Avatar System (2025)
+**[ARC-9](https://exitsimulation.com) — Persona-driven multi-agent avatar** · 2025
+A 3D avatar web agent with an intentionally abrasive personality, inspired by SHODAN and GLaDOS. A router agent delegates to specialist sub-agents; streamed text, TTS, and avatar animation run under one playback lifecycle to stay in sync.
+`Python` · `FastAPI` · `Google ADK` · `Gemini` · `Next.js` · `Three.js` · `WebSockets`
 
-A 3D avatar website agent with a deliberately less agreeable personality, inspired by sci-fi agents such as SHODAN, GLaDOS, and HAL. Built as a router-style primary agent delegating to specialist sub-agents, with streamed text, TTS, and avatar animation unified around a single playback lifecycle for synchronized conversation delivery.
-
-- **Stack:** Python, FastAPI, Google ADK, Gemini, Next.js, Three.js, WebSockets, SQLite, Docker
-- **Live:** [exitsimulation.com](https://exitsimulation.com)
-
-#### Virtual Humans Platform (2025 — 2026)
-
-A platform for realistic 3D avatars powered by Unreal Engine 5.7 and MetaHuman, backed by a multimodal agentic backend built on Google ADK. Part of a research collaboration with **Charité Berlin**.
-
-- **Stack:** Python (Google ADK), FastAPI, Nvidia Omniverse, Unreal Engine, MetaHuman
-- **System Design:** Integrated agent orchestration, tool use, user-specific memory, and character control logic to support interactive virtual human behavior across sessions.
+**Virtual Humans Platform** · 2025 — 2026
+Realtime 3D avatars in Unreal Engine 5 / MetaHuman, driven by a multimodal agentic backend (Google ADK) with tool use and per-user memory. Research collaboration with Charité Berlin.
+`Python` · `Google ADK` · `FastAPI` · `Nvidia Omniverse` · `Unreal Engine` · `MetaHuman`
 
 ---
 
-### Recognitions & Partnerships
+### Recognition
 
-<img src="ue-gold-badge.png" alt="Unreal Engine Instructor Partner badge" width="220" />
+<img src="ue-gold-badge.png" alt="Unreal Engine Instructor Partner badge" width="200" />
 
-- **Epic Games:** Unreal Engine Instructor Partner (2025 — Present)
-- **Meta:** Partner for XR Development (2019 — 2024)
+- **Epic Games** — Unreal Engine Instructor Partner (2025 — Present)
+- **Meta** — XR Development Partner (2019 — 2024)
 
 ---
 
 ### Education
 
 **B.Eng. Audio-Visual Engineering** · Hochschule Düsseldorf (2019)
-
-- **Focus:** Digital signal processing, computer engineering, mathematics, immersive technologies
+Digital signal processing, computer engineering, immersive technologies.
