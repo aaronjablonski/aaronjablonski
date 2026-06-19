@@ -28,9 +28,7 @@ I work on real-time, multimodal AI systems — mostly conversational and avatar-
 <details>
 <summary><b>Senior Product Engineer · Ojin</b> &nbsp;·&nbsp; <i>2026 — Present</i></summary>
 
-[Ojin](https://ojin.ai) is a real-time AI inference platform for interactive media — hosted models for talking-head video, real-time avatars, and world generation — delivered as low-latency APIs and embeddable widgets, with integrations for Pipecat, LiveKit, and Unreal Engine. It's used by teams at companies including BMW, Adidas, and H&M.
-
-On a small team, I own features end-to-end across the stack:
+[Ojin](https://ojin.ai) is a real-time AI inference platform for interactive media — hosted models for talking-head video, real-time avatars, and world generation — delivered as low-latency APIs and embeddable widgets, with integrations for Pipecat, LiveKit, and Unreal Engine.
 
 - Frontends in React / TypeScript and the Node.js services behind them.
 - The Python AI layer — agentic systems, conversational flows, and the speech / avatar / LLM loop over WebRTC, LiveKit, and Pipecat.
