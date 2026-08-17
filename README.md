@@ -21,18 +21,6 @@ I work on real-time, multimodal AI systems — mostly conversational and avatar-
 
 ---
 
-### Projects
-
-**[ARC-9](https://exitsimulation.com) — Persona-driven multi-agent avatar** · 2025
-A 3D avatar web agent with an intentionally abrasive personality, inspired by SHODAN and GLaDOS. A router agent delegates to specialist sub-agents; streamed text, TTS, and avatar animation run under one playback lifecycle to stay in sync.
-`Python` · `FastAPI` · `Google ADK` · `Gemini` · `Next.js` · `Three.js` · `WebSockets`
-
-**Virtual Humans Platform** · 2025 — 2026
-Realtime 3D avatars in Unreal Engine 5 / MetaHuman, driven by a multimodal agentic backend (Google ADK) with tool use and per-user memory. Research collaboration with Charité Berlin.
-`Python` · `Google ADK` · `FastAPI` · `Nvidia Omniverse` · `Unreal Engine` · `MetaHuman`
-
----
-
 ### Recognition
 
 <img src="ue-gold-badge.png" alt="Unreal Engine Instructor Partner badge" width="200" />
