@@ -29,8 +29,3 @@ I work on real-time, multimodal AI systems — mostly conversational and avatar-
 - **Meta** — XR Development Partner (2019 — 2024)
 
 ---
-
-### Education
-
-**B.Eng. Audio-Visual Engineering** · Hochschule Düsseldorf (2019)
-Digital signal processing, computer engineering, immersive technologies.
